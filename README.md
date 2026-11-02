@@ -6,7 +6,7 @@ Developed as a Mini Project for the AR/VR course at Manipal Institute of Technol
 
 ## About This Project
 
-This repository contains a complete, runnable simulation of a log-handling chain, written in C# across 21 scripts. A spawner creates logs from a list of prefab types and a conveyor belt moves them forward. A sensor inspects each log, gives it an ID (for example LOG-001), measures its length and diameter, and shows the result on an inspection dashboard.
+This repository contains a complete, runnable simulation of a log-handling chain, written in C#. A spawner creates logs from a list of prefab types and a conveyor belt moves them forward. A sensor inspects each log, gives it an ID (for example LOG-001), measures its length and diameter, and shows the result on an inspection dashboard.
 
 Logs are loaded onto the truck in two ways. A robot arm can pick a log up and place it at a truck drop point, and the code contains three alternative implementations of this robot. The truck can also collect the nearest log of the required type through a command. The truck then drives to the delivery zone, either under player control or by steering itself there.
 
@@ -69,7 +69,7 @@ B.Tech Mechatronics, Manipal Institute of Technology (MIT), Manipal
 | Component | Details |
 |-----------|---------|
 | Engine | Unity |
-| Language | C# (21 scripts) |
+| Language | C# |
 | Truck Physics | Rigidbody forces and rotation (no WheelCollider) |
 | Robot Arm | CCD inverse kinematics, plus animator-based alternatives |
 | Voice Input | Windows keyword recognition (12 phrases) |
