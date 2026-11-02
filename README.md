@@ -38,7 +38,7 @@ B.Tech Mechatronics, Manipal Institute of Technology (MIT), Manipal
 
 | Name | Roll No. |
 |------|----------|
-| Mihika Usgaonker | 230929319 |
+| Mihika Usgaonker | 230929318 |
 | Aastha Dhruv | 230929028 |
 | Ayaan Zubair Shaikh | 230929027 |
 | Sheikh Riza | 230929004 |
