@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53ea81d8d0232b7478878d096aa56aa5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 31696
+  packageName: Loader Heavy Machinery
+  packageVersion: 1.2.4
+  assetPath: Assets/_DLNK/HeavyMachinery/Scene/TestMachinery/LightingData.asset
+  uploadId: 559592
