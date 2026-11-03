@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e5dc10a9976202748abc7d75296c13e7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312354
+  packageName: Barn House
+  packageVersion: 1.0
+  assetPath: Assets/Barn House/URP/Materials/M_Silo_Floor_URP.mat
+  uploadId: 744801

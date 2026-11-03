@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d389b985e73d13c40a0a8664589885ad
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312354
+  packageName: Barn House
+  packageVersion: 1.0
+  assetPath: Assets/Barn House/HDRP/Materials/M_Store_Wall_01_HDRP.mat
+  uploadId: 744801

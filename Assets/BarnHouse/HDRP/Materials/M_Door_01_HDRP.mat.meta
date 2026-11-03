@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d81f8799fc5ae54bbd0674ad63a8434
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312354
+  packageName: Barn House
+  packageVersion: 1.0
+  assetPath: Assets/Barn House/HDRP/Materials/M_Door_01_HDRP.mat
+  uploadId: 744801

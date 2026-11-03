@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a964b2b7103c9a4c8cc04f150814ec9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312354
+  packageName: Barn House
+  packageVersion: 1.0
+  assetPath: Assets/Barn House/Built-In/Materials/M_Windmill_Fan.mat
+  uploadId: 744801

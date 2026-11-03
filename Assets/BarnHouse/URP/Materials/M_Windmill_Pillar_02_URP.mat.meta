@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e56d33423abfe48489af2a39f58582cc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312354
+  packageName: Barn House
+  packageVersion: 1.0
+  assetPath: Assets/Barn House/URP/Materials/M_Windmill_Pillar_02_URP.mat
+  uploadId: 744801

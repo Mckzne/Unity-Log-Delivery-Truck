@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0f068ae244abf914ea06d9da9e26bf7e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312354
+  packageName: Barn House
+  packageVersion: 1.0
+  assetPath: Assets/Barn House/Built-In/Materials/M_Silo_Room.mat
+  uploadId: 744801

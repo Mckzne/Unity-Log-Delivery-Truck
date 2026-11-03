@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b060ca1a901e0f64d875ca8249b3c183
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312354
+  packageName: Barn House
+  packageVersion: 1.0
+  assetPath: Assets/Barn House/Built-In/Materials/M_Window_Wall_01.mat
+  uploadId: 744801

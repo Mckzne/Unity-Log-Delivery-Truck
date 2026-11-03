@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e1eb15a5c2463d147a2c96511f3a03ec
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312354
+  packageName: Barn House
+  packageVersion: 1.0
+  assetPath: Assets/Barn House/URP/Materials/M_Window_01_URP.mat
+  uploadId: 744801

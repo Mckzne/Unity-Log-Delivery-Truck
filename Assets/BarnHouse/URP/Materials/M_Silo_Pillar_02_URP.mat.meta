@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed7b659d71814914c9d5a23d4dc1782e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312354
+  packageName: Barn House
+  packageVersion: 1.0
+  assetPath: Assets/Barn House/URP/Materials/M_Silo_Pillar_02_URP.mat
+  uploadId: 744801

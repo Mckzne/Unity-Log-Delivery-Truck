@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4823714fe3376494c835e245cd2d7279
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312354
+  packageName: Barn House
+  packageVersion: 1.0
+  assetPath: Assets/Barn House/URP/Materials/M_Windmill_Fan_URP.mat
+  uploadId: 744801

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2e512f8d76bb3b24dbae956bbdaa0bd8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312354
+  packageName: Barn House
+  packageVersion: 1.0
+  assetPath: Assets/Barn House/Built-In/Materials/M_Silo_Tank.mat
+  uploadId: 744801

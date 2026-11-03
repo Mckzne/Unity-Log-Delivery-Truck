@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9ce99833e4b6324bbd5f3762f59b0e5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312354
+  packageName: Barn House
+  packageVersion: 1.0
+  assetPath: Assets/Barn House/HDRP/Materials/M_Store_Footer_HDRP.mat
+  uploadId: 744801

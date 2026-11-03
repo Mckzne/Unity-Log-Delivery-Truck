@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 62e40972525247849befa6dd6b76bb94
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312354
+  packageName: Barn House
+  packageVersion: 1.0
+  assetPath: Assets/Barn House/URP/Materials/M_Pot_01_02_URP.mat
+  uploadId: 744801

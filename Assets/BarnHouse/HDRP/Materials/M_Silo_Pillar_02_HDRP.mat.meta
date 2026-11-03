@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0aec50f3dd6327c48935146cfcb0f5a7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312354
+  packageName: Barn House
+  packageVersion: 1.0
+  assetPath: Assets/Barn House/HDRP/Materials/M_Silo_Pillar_02_HDRP.mat
+  uploadId: 744801

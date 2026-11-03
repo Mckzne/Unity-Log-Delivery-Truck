@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c271422c885ecd44ca68b874af6c1d4d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312354
+  packageName: Barn House
+  packageVersion: 1.0
+  assetPath: Assets/Barn House/Built-In/Materials/M_Table.mat
+  uploadId: 744801

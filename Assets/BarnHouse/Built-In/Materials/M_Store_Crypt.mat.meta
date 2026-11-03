@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ba8d66a34a7f2c349a67bda17d8397bc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312354
+  packageName: Barn House
+  packageVersion: 1.0
+  assetPath: Assets/Barn House/Built-In/Materials/M_Store_Crypt.mat
+  uploadId: 744801

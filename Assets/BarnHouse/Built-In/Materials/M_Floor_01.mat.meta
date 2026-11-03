@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 66fe2df75372f0d4596c59d4f4a54cb1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312354
+  packageName: Barn House
+  packageVersion: 1.0
+  assetPath: Assets/Barn House/Built-In/Materials/M_Floor_01.mat
+  uploadId: 744801

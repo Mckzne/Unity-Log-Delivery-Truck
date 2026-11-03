@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3aa7fdc7ab4f1f14b99f8e4018670ee7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312354
+  packageName: Barn House
+  packageVersion: 1.0
+  assetPath: Assets/Barn House/URP/Materials/M_wall_03_URP.mat
+  uploadId: 744801

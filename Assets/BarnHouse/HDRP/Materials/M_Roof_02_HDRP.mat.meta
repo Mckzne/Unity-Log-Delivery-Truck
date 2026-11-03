@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3bbab3a44150dfc4dbad2b67bdb2f0ac
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312354
+  packageName: Barn House
+  packageVersion: 1.0
+  assetPath: Assets/Barn House/HDRP/Materials/M_Roof_02_HDRP.mat
+  uploadId: 744801

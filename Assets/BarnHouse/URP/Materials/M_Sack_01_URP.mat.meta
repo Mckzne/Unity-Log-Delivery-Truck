@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0768d942a0fd8b644abee9dfced7207c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312354
+  packageName: Barn House
+  packageVersion: 1.0
+  assetPath: Assets/Barn House/URP/Materials/M_Sack_01_URP.mat
+  uploadId: 744801

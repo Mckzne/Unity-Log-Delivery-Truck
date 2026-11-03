@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6ba3b3de5853b4046a3febb129048185
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312354
+  packageName: Barn House
+  packageVersion: 1.0
+  assetPath: Assets/Barn House/URP/Materials/M_Windmill_Base_URP.mat
+  uploadId: 744801

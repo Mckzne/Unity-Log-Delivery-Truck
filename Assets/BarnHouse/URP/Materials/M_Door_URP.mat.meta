@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 314f6900fe94ded4088d0ebd4421f920
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312354
+  packageName: Barn House
+  packageVersion: 1.0
+  assetPath: Assets/Barn House/URP/Materials/M_Door_URP.mat
+  uploadId: 744801

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e7d7e21662290274f8f6799a4993c524
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312354
+  packageName: Barn House
+  packageVersion: 1.0
+  assetPath: Assets/Barn House/Built-In/Materials/M_Door_01.mat
+  uploadId: 744801
