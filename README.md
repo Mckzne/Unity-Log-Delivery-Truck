@@ -109,7 +109,6 @@ Unity's generated folders, such as `Library/` and `Temp/`, are **not** included.
 
 ### Requirements
 
-- **Windows PC.** One included script (`TruckVoiceCommands.cs`) uses the Windows speech namespace, so the project compiles on Windows only (see the notes below to use another platform).
 - **Git**, to clone the repository
 - **Unity Hub** and the **Unity Editor version this project was built with**. The exact version is written in `ProjectSettings/ProjectVersion.txt` (look for the `m_EditorVersion` line).
 - An internet connection for the first open, so Unity can download the packages listed in `Packages/manifest.json`
